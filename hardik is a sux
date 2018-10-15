@@ -1,5 +1,6 @@
 include <stdio.h>
 void main ()
 {
-printf("hardik is a sux")
+printf("hardik is not a sux")
+printf("but he is not a rox also")
 }
